@@ -6,7 +6,6 @@ from numpy import exp
 import h5py
 import png
 from scipy.optimize import curve_fit
-import matplotlib.pyplot as plt
 
 
 def openh5py(f):
